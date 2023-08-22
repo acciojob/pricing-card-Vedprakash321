@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	pading:0;
+/* 	box-sizing:border-box;
+} */
+.card{
+	
+	width:30%;
+	padding:10px;
+	background-color:#f1f1f1;
+	box-shadow: 4px 5px 8px darkgray; 
+	text-align:center;
+	border-radius:5px;
+
+
+	
+}
+.btn{
+	border-radius:5px;
+	color:white;
+	padding:10px;
+    border:none;
+	background-color:#fe625a;
+}
